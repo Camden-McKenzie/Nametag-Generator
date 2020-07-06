@@ -7,9 +7,10 @@ Camden McKenzie | Jul 6, 2020 | Based on [allisontharp's BadgeGenerator](https:/
 
 
 ```
-source env/bin/activate
+## Run from within folder ##
+% source env/bin/activate
 
-python3 nametag-generator.py
+% python3 nametag-generator.py
 ```
 
 ## Settings
