@@ -8,8 +8,6 @@ Camden McKenzie | Jul 6, 2020 | Based on [allisontharp's BadgeGenerator](https:/
 
 ```
 source env/bin/activate
-or
-activate
 
 python3 nametag-generator.py
 ```
