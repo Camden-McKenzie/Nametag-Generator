@@ -3,7 +3,7 @@
 ## Author
 Camden McKenzie | Jul 6, 2020 | Based on [allisontharp's BadgeGenerator](https://gist.github.com/allisontharp/c48714fe0e7c6f158d4d3ca517ac4c84)
 
-## Running
+## Run
 
 
 ```
